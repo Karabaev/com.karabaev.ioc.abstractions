@@ -1,0 +1,14 @@
+{
+    "name": "com.karabaev.ioc.abstractions",
+    "rootNamespace": "com.karabaev.ioc.abstractions",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
